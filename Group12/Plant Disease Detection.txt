@@ -1,0 +1,11 @@
+title Plant Disease Detection
+
+Farmer->Server:Enter the mobile no
+Server<-Server:Validate mobile no
+Server->Farmer:Login Successfully
+Farmer->Farmer:Capture the photo of infected crop
+Farmer->Server:Upload the photo
+Server->Server:Matching the uploaded photo from dataset
+Server->Farmer:Send the Disease Information
+Farmer ->Server:Ask about Disease Prevention
+Server ->Farmer:Provide prevention about disease
