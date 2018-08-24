@@ -1,8 +1,8 @@
 Group 12
 
-Title:
+Title: Plant Disease Detection Using Image Processing and Machine Learning 
 
-Members:
+Members: Nitin Sonawane,Rohit Suryawanshi,Viswajeet Gawali,Yeshodeepika sonawane
 
-Project Guide:
+Project Guide:Miss.Pranjali Kuche
 
