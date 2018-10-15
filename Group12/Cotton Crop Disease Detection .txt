@@ -1,0 +1,14 @@
+title Cotton Crop Disease Detection using machine learning and Image processing
+
+Farmer->Mobile App:Enter the mobile no and password
+Mobile App->Server:Verify the mobile no and password
+Server ->Server:Verify from Database
+Server ->Mobile App:Verified
+Mobile App ->Farmer:Login Successfully
+Farmer->Farmer:Capture the photo of infected crop
+Farmer->Mobile App:Upload The infected photo
+Mobile App->Server:Matching the photo from dataset
+Server->Mobile App:Provide the detailed information and Prevention about the disease 
+Mobile App -> Farmer:Send the disease information
+Farmer ->Mobile App:Ask aAbout the Disease Prevention
+Mobile App ->Farmer:Provide the disease Prevention.
